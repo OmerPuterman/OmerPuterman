@@ -1,3 +1,5 @@
+
+<img src="github_banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
 # 👋 Hi, I'm Omer
 
 🎓 Software Engineering Student | 
@@ -33,5 +35,4 @@ Plan, share, and budget your dream trips with friends.
 
 📫 **Reach me**: [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
 
-<img src="github_banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
 
