@@ -1,5 +1,6 @@
 
 <img src="github_banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
+
 # 👋 Hi, I'm Omer
 
 🎓 Software Engineering Student | 
