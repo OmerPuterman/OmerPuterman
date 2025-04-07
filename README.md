@@ -59,7 +59,7 @@ A simple Unity mini-game where the player avoids obstacles with responsive sound
 
 - 🔊 Collision-based audio feedback  
 - 🧱 Interactive obstacles and smooth animations  
-▶️ [Watch Gameplay Video]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1EGjOYdIue1g5IvPC5LaCKdOjDOyOeU1x/view?usp=sharing))
+▶️ [Watch Gameplay Video](https://drive.google.com/file/d/1EGjOYdIue1g5IvPC5LaCKdOjDOyOeU1x/view?usp=sharing)
 ---
 
 ### 🛠️ Java OOP Project – Year 2  
