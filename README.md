@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Omer
 
-🎓 Final Year Software Engineering Student  
+🎓 3rd Year Software Engineering Student  
 💡 Passionate about mobile & game development, intelligent systems, and clean design  
 📍 Currently building a **group travel planner app with route optimization**
 
